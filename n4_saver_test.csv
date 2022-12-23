@@ -1,0 +1,11 @@
+Input,Prediction,Conservative,Substitutions_Set1,N_Substitutions_Set1,Substitutions_Set2,N_Substitutions_Set2/Set1
+NP_004548.3 1213 G R,Damaging,156,,0,,0
+NP_004548.3 1099 G R,Damaging,156,,0,R,1
+NP_004548.3 942 G R,Benign,153,R,3,R,0
+NP_004548.3 815 C G,Damaging,156,,0,,0
+NP_004548.3 534 G S,Benign,149,A S,5,S,24
+NP_004548.3 320 T A,Benign,31,E V A,103,A,116
+NP_004548.3 272 D G,Benign,140,G N E,4,G,97
+NP_004548.3 244 S L,Benign,66,Q P F L,63,L,62
+NP_004548.3 204 P L,Benign,145,L,11,L,17
+NP_004548.3 117 K Q,Benign,17,W H R P Q,60,Q,170

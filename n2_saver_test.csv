@@ -1,0 +1,34 @@
+Input,Prediction,Conservative,Substitutions_Set1,N_Substitutions_Set1,Substitutions_Set2,N_Substitutions_Set2/Set1
+NP_077719.2 2408 L H,Damaging,272,,0,,0
+NP_077719.2 2359 P A,Benign,263,S T A,2,A,36
+NP_077719.2 2160 Y C,Damaging,272,,0,,0
+NP_077719.2 2157 P T,Damaging,272,,0,,0
+NP_077719.2 2075 V M,Benign,256,L M A,10,M,165
+NP_077719.2 2042 M T,Damaging,269,L,0,,0
+NP_077719.2 2032 H N,Damaging,272,,0,,0
+NP_077719.2 1882 H Y,Damaging,272,,0,,0
+NP_077719.2 1741 S L,Damaging,270,K,0,,0
+NP_077719.2 1689 I F,Damaging,238,V L,0,,0
+NP_077719.2 1667 V F,Benign,208,D I F L,16,F,0
+NP_077719.2 1667 V I,Benign,208,D I F L,27,I,0
+NP_077719.2 1413 L H,Benign,227,H F S,2,H,0
+NP_077719.2 1327 D G,Damaging,260,E N S,0,,0
+NP_077719.2 1260 R H,Benign,267,H,5,H,64
+NP_077719.2 1251 R H,Benign,248,Q H L,20,H,7
+NP_077719.2 1209 F V,Damaging,270,Y,0,,0
+NP_077719.2 1160 H R,Damaging,272,,0,,0
+NP_077719.2 862 A V,Damaging,263,T S,0,,0
+NP_077719.2 681 I N,Damaging,253,V L,0,,0
+NP_077719.2 514 N S,Damaging,272,,0,S,24
+NP_077719.2 466 Q K,Benign,229,K R,42,K,2
+NP_077719.2 444 C Y,Damaging,272,,0,,0
+NP_077719.2 439 A T,Benign,253,D G T S,2,T,0
+NP_077719.2 415 D N,Damaging,272,,0,,0
+NP_077719.2 404 P L,Damaging,272,,0,,0
+NP_077719.2 91 R L,Benign,227,L H Q,5,L,0
+NP_077719.2 46 N S,Damaging,272,,0,,0
+NP_077719.2 38 E K,Benign,255,D K Q,9,K,0
+NP_077719.2 21 A T,Benign,202,D G S V T,16,T,0
+NP_077719.2 19 C W,Damaging,105,G S E R L Q,0,,0
+NP_077719.2 3 A S,Benign,257,G T S,8,S,0
+NP_077719.2 1 M I,Benign,259,I A L S,4,I,0
